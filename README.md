@@ -1,1 +1,1 @@
-# Live-OpenShift-
+This guide provides a production-ready Keycloak deployment on Ubuntu EC2 using Docker Compose, PostgreSQL, and Nginx with Let's Encrypt SSL. Key components include optimizing the Keycloak container for proxy support, persistent storage configuration, and securing traffic via Certbot.
